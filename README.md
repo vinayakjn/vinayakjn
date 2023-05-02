@@ -1,4 +1,4 @@
-WELCOME
+**WELCOME**
 
 - 👋 Hi, I’m @vinayakjn
 - 👀 I love learning new technologies and techniques
