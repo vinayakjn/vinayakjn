@@ -1,3 +1,5 @@
+WELCOME
+
 - 👋 Hi, I’m @vinayakjn
 - 👀 I love learning new technologies and techniques
 - 🌱 I’m currently learning Python & ML technologies
