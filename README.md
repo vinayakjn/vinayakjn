@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @vinayakjn
 - 👀 I love learning new technologies and techniques
 - 🌱 I’m currently learning Python & ML technologies
-- 🤖 I love solving complex problems and participating in ML competitions
+- 🤖 I love solving complex business case studies
 - 💞️ I’m looking for exciting work in the field of Data Science
 - 📫 How to reach me?? ==> vinayakjain96@gmail.com
 
